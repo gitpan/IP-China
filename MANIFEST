@@ -1,5 +1,9 @@
+block-china-data.c
+block-china.c
+block-china.h
 China.xs
 lib/IP/China.pm
+lib/IP/China.pod
 Makefile.PL
 makeitfile
 MANIFEST			This list of files
