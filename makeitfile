@@ -1,0 +1,19 @@
+all:
+
+objs: block-china.o block-china-data.o
+
+# DO NOT DELETE
+
+block-china.o: /usr/include/stdlib.h /usr/include/sys/cdefs.h
+block-china.o: /usr/include/sys/_null.h /usr/include/sys/_types.h
+block-china.o: /usr/include/machine/_types.h /usr/include/stdio.h
+block-china.o: block-china.h
+block-china-data.o: block-china.h
+
+
+clean:
+	-rm -f block-china.[cho] block-china-data.[cho] makeitfile
+
+# Local variables:
+# mode: makefile
+# End:

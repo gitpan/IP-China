@@ -1,0 +1,9 @@
+China.xs
+lib/IP/China.pm
+Makefile.PL
+makeitfile
+MANIFEST			This list of files
+MANIFEST.SKIP
+t/IP-China.t
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
