@@ -1,5 +1,5 @@
 ---
-abstract: unknown
+abstract: 'decide whether an internet address is from China'
 author:
   - 'Ben Bullock <bkb@cpan.org>'
 build_requires:
@@ -21,4 +21,4 @@ requires: {}
 resources:
   bugtracker: https://github.com/benkasminbullock/chinese-ip/issues
   repository: https://github.com/benkasminbullock/chinese-ip
-version: 0.02
+version: 0.03

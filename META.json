@@ -1,5 +1,5 @@
 {
-   "abstract" : "unknown",
+   "abstract" : "decide whether an internet address is from China",
    "author" : [
       "Ben Bullock <bkb@cpan.org>"
    ],
@@ -43,5 +43,5 @@
          "url" : "https://github.com/benkasminbullock/chinese-ip"
       }
    },
-   "version" : "0.02"
+   "version" : "0.03"
 }

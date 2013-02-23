@@ -1,6 +1,6 @@
 #include "block-china.h"
-int n_china_ips = 2562;
-china_ip_t china_ips[2562] = {
+int n_china_ips = 2560;
+china_ip_t china_ips[2560] = {
 {0x1000100,0x10003FF},
 {0x1000800,0x1000FFF},
 {0x1002000,0x1003FFF},
@@ -299,8 +299,6 @@ china_ip_t china_ips[2562] = {
 {0x4A5B1EF0,0x4A5B1F1F},
 {0x4A5B1F28,0x4A5B1F2F},
 {0x4A5B1F38,0x4A5B1FFF},
-{0x4A7D1040,0x4A7D107F},
-{0x4A7D4600,0x4A7D46FF},
 {0x4A7F2660,0x4A7F267F},
 {0x4B4BEC00,0x4B4BEC07},
 {0x4B4BEC28,0x4B4BEC2F},
