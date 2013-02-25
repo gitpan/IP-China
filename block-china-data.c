@@ -1,3 +1,8 @@
+/* This program file includes GeoLite data created by MaxMind,
+available from http://www.maxmind.com. The GeoLite databases are
+distributed under the Creative Commons Attribution-ShareAlike 3.0
+Unported License. */
+
 #include "block-china.h"
 int n_china_ips = 2560;
 china_ip_t china_ips[2560] = {

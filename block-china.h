@@ -23,9 +23,9 @@ extern china_ip_t china_ips[];
 extern int n_china_ips;
 
 #line 15 "block-china.c"
-unsigned int ip_to_int (char * ip );
+unsigned int ip_to_int (const char * ip );
 
-#line 27 "block-china.c"
+#line 44 "block-china.c"
 int chinese_ip (unsigned ip );
 
 #endif /* CFH_BLOCK_CHINA_H */
