@@ -31,7 +31,9 @@
          }
       },
       "runtime" : {
-         "requires" : {}
+         "requires" : {
+            "IP::Tools" : "0.01"
+         }
       }
    },
    "release_status" : "stable",
@@ -43,5 +45,5 @@
          "url" : "https://github.com/benkasminbullock/chinese-ip"
       }
    },
-   "version" : "0.04"
+   "version" : "0.05"
 }

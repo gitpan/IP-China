@@ -1,8 +1,8 @@
 block-china-data.c
-block-china.c
-block-china.h
+block-china-data.h
 Changes
 China.xs
+ip-tools.h
 lib/IP/China.pm
 lib/IP/China.pod
 Makefile.PL

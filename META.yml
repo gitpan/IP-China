@@ -17,8 +17,9 @@ no_index:
   directory:
     - t
     - inc
-requires: {}
+requires:
+  IP::Tools: 0.01
 resources:
   bugtracker: https://github.com/benkasminbullock/chinese-ip/issues
   repository: https://github.com/benkasminbullock/chinese-ip
-version: 0.04
+version: 0.05

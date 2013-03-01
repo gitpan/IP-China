@@ -3,9 +3,9 @@ available from http://www.maxmind.com. The GeoLite databases are
 distributed under the Creative Commons Attribution-ShareAlike 3.0
 Unported License. */
 
-#include "block-china.h"
+#include "ip-tools.h"
 int n_china_ips = 2560;
-china_ip_t china_ips[2560] = {
+ip_block_t china_ips[2560] = {
 {0x1000100,0x10003FF},
 {0x1000800,0x1000FFF},
 {0x1002000,0x1003FFF},
