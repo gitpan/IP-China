@@ -2,6 +2,7 @@ block-china-data.c
 block-china-data.h
 Changes
 China.xs
+ip-tools.c
 ip-tools.h
 lib/IP/China.pm
 lib/IP/China.pod
