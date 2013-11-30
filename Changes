@@ -1,31 +1,40 @@
-0.07
-Uses "GeoLite Country" database for April 2013.
+20131106 2013-11-30
 
-0.06
+* Change to version which is the date of the data.
 
-Compilation changes which only affect Microsoft Windows.
-Uses "GeoLite Country" database for March 2013.
+0.08 2013-05-29
 
-0.05
+* Data update
 
-This release changes to depend on another module, IP::Tools.
+0.07 2013-04-01
 
-0.04
+* Use "GeoLite Country" database for April 2013.
 
-This release addresses a bug which only affects Microsoft Windows.
+0.06 2013-03-01
 
-0.03
+* Compilation changes which only affect Microsoft Windows.
+* Use "GeoLite Country" database for March 2013.
 
-This improves documentation and addresses an error in the MaxMind IP
-data.
+0.05 2013-02-28
 
-0.02
+* Introduce dependency on IP::Tools.
 
-This is the initial version of the module. Version 0.01 is empty.
+0.04 2013-02-24
 
-0.01
+* Addresses a bug which only affects Microsoft Windows.
 
-This version of the module was accidentally uploaded without the
-content files. It is completely empty.
+0.03 2013-02-22
+
+* Improves documentation
+* Addresses an error in the MaxMind IP data.
+
+0.02 2013-02-10
+
+* This is the initial version of the module. Version 0.01 is empty.
+
+0.01 2013-02-10
+
+* This version of the module was accidentally uploaded without the
+  content files. It is completely empty.
 
 
