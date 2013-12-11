@@ -32,7 +32,8 @@
       },
       "runtime" : {
          "requires" : {
-            "IP::Tools" : "0.01"
+            "IP::Tools" : "0.01",
+            "perl" : "5.006001"
          }
       }
    },
@@ -45,5 +46,5 @@
          "url" : "https://github.com/benkasminbullock/chinese-ip"
       }
    },
-   "version" : "20131106"
+   "version" : "20131206"
 }

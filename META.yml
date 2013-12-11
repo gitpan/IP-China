@@ -19,7 +19,8 @@ no_index:
     - inc
 requires:
   IP::Tools: 0.01
+  perl: 5.006001
 resources:
   bugtracker: https://github.com/benkasminbullock/chinese-ip/issues
   repository: https://github.com/benkasminbullock/chinese-ip
-version: 20131106
+version: 20131206
