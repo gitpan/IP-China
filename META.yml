@@ -3,24 +3,24 @@ abstract: 'decide whether an internet address is from China'
 author:
   - 'Ben Bullock <bkb@cpan.org>'
 build_requires:
-  ExtUtils::MakeMaker: 0
+  ExtUtils::MakeMaker: '0'
 configure_requires:
-  ExtUtils::MakeMaker: 0
+  ExtUtils::MakeMaker: '0'
 dynamic_config: 1
-generated_by: 'ExtUtils::MakeMaker version 6.86, CPAN::Meta::Converter version 2.133380'
+generated_by: 'ExtUtils::MakeMaker version 6.88, CPAN::Meta::Converter version 2.133380'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
-  version: 1.4
+  version: '1.4'
 name: IP-China
 no_index:
   directory:
     - t
     - inc
 requires:
-  IP::Tools: 0.01
-  perl: 5.006001
+  IP::Tools: '0.01'
+  perl: '5.006001'
 resources:
   bugtracker: https://github.com/benkasminbullock/chinese-ip/issues
   repository: https://github.com/benkasminbullock/chinese-ip
-version: 20140109
+version: '20140206'
