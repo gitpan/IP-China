@@ -12,7 +12,7 @@
 #line 7 "block-china-data.c"
 extern int n_china_ips;
 
-#line 2200 "block-china-data.c"
+#line 2283 "block-china-data.c"
 extern ip_block_t china_ips[];
 
 #endif /* CFH_BLOCK_CHINA_DATA_H */
